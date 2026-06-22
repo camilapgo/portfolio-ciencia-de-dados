@@ -44,9 +44,9 @@ Estou no início da graduação e construindo uma base sólida em **programaçã
 
 ## 📫 Contato
 
-- LinkedIn: *(adicione o link do seu perfil aqui)*
-- E-mail: *(adicione seu e-mail profissional aqui)*
+- [LinkedIn](https://github.com/camilapgo)
+- E-mail: *camilaparreira24@gmail.com*
 
 ---
 
-*Repositório em construção — atualizado a cada semestre do curso.*
+*Repositório em construção - atualizado a cada semestre do curso.*
