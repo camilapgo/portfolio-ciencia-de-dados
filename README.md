@@ -44,7 +44,7 @@ Estou no início da graduação e construindo uma base sólida em **programaçã
 
 ## 📫 Contato
 
-- [LinkedIn](https://github.com/camilapgo)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/camilapgo/) *https://www.linkedin.com/in/camilapgo/*
 - E-mail: *camilaparreira24@gmail.com*
 
 ---
